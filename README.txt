@@ -5,11 +5,16 @@
 ╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗    ╚██████╗██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██████╔╝
  ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
                                                                                                
+I N S T A L L
 
-1 -- Disable AV ( false positives ) 
+- Prerequisites
+. Windows 10/11
 
-2 -- Run Setup.Bat to install all dependencies 
+S E T U P 
 
-3 -- Run ui
+- Download source code zip
+- Extract zip
+- First install required packages by double clicking the setup.bat file
+- Run the Executor by double clicking wave.exe 
 
-4 -- Enjoy Wave for Free 
+
